@@ -1,9 +1,13 @@
 
 
-export const ProductPage = () => {
-    return (
-        <div>
 
-        </div>
+
+export const ProductPage = () => {
+
+
+    return (
+        <>
+
+        </>
     )
 }
